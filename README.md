@@ -1,1 +1,1 @@
-recyclerview的代码编译没错，但是虚拟机出了问题，我也没敢打包apk。
+抱歉，学长，recyclerview的代码虚拟机跑不出来，没看到效果就不敢打包apk了。
